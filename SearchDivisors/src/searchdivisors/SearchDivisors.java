@@ -1,4 +1,3 @@
-
 package searchdivisors;
 
 import java.util.ArrayList;
