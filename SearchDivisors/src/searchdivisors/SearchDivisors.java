@@ -52,6 +52,5 @@ public class SearchDivisors {
 
         Collections.sort(divResult);
         System.out.println(divResult);
-        System.out.println("Also we can append negative divisors.");
     }
 }
